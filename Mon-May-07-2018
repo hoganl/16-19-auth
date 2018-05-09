@@ -1,0 +1,61 @@
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"level":"error"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"level":"error"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Server is off"}
