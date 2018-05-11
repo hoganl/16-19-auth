@@ -121,7 +121,15 @@ describe('TESTING ROUTES AT /images', () => {
     });
 
     test('DELETE /images/:id should return with 401 status for bad token', () => {
-
+      return pCreateImageMock()
+        .then((image) => {
+          return superagent.delete(`${apiURL}/images/${image.image._id}`)
+            .set('Authorization', 'Bearer ');
+        })
+        .then(Promise.reject)
+        .catch((err) => {
+          expect(err.status).toEqual(401);
+        });
     });
   });
 });
