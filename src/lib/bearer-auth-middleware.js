@@ -23,7 +23,7 @@ export default (request, response, next) => {
   const token = request.headers.authorization.split('Bearer ')[1];
 
   if (!token) {
-    return next(new HttpError(400, 'AUTH - invalid request'));    
+    return next(new HttpError(401, 'AUTH - bad token'));    
   }
 
   return promisify(jsonWebToken.verify)(token, process.env.PENGUIN_PIC_SECRET)
