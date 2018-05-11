@@ -1,0 +1,1028 @@
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4ae76b34b64526c7903af"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message IMAGE ROUTER _ERROR_, invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message IMAGE ROUTER _ERROR_, invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4aeed9447b353545bc7e2"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b0d104f1b35280703f37"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b17be74ab15314b672f8"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T20:55:24.021Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T20:55:24.021Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b1c1265a0e52800e1205"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b24886ec66369044ee2b"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:01:04.783Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:01:04.782Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b31c5766942848848a5d"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:02:29.403Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:02:29.403Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b370bed5661630589451"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:04:20.439Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T21:04:20.439Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b3df9a648b3948358be7"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4b4054feb403460bfc072"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4d6b68208964cbc6ffdbc"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T23:34:23.113Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-10T23:34:23.113Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4d7052d97c93ca00b2835"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"level":"error"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a POST on /penguins"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a POST on /penguins/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /penguins/5af4dbb6b237e33fd00d95f4"}
+{"level":"info","message":"Returning 200 and a new Penguin"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"info","message":"AUTH - creating TOKEN"}
+{"level":"info","message":"AUTH - returning a 200 code and a token"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a POST on /signup"}
+{"level":"error","message":"Responding with a 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Account email is required"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"info","message":"LOGIN - responding with a 200 status and a Token"}
+{"level":"info","message":"Processing a GET on /login"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /login/BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-11T00:11:07.496Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-11T00:11:07.495Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e16179c13b3ae01cb584"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e20503575d1288b19878"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e2485dddee43e8027456"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e412b5de79390c0f0433"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /5af4e412b5de79390c0f0435"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e4797b0e1e3294191d5f"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /images/5af4e4797b0e1e3294191d61"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e59aa2036519a8e77058"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Responding with a 500 error code"}
+{"message":"Missing credentials in config","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-11T00:37:55.247Z","originalError":{"message":"Could not load credentials from any providers","errno":"ETIMEDOUT","code":"CredentialsError","syscall":"connect","address":"169.254.169.254","port":80,"time":"2018-05-11T00:37:55.247Z","originalError":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"169.254.169.254","port":80,"message":"connect ETIMEDOUT 169.254.169.254:80"}},"level":"error"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4e5e35925c2495c3a332c"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4eab1bc029829b45f229c"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ec4e1ec701467084e944"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ec70d827fa29d467dffc"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ed23d86e822b04e06c83"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /images/5af4ed23d86e822b04e06c85"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ee3add17621b8cbbc704"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ee774fe7503dd8da7236"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4f0eb1389b04cb0f36999"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /images/5af4f0eb1389b04cb0f3699b"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4f3737fe33141f4600973"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4f3737fe33141f4600975"}
+{"level":"info","message":"Processing a DELETE on /images/5af4f3737fe33141f4600977"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4f5263adbaa4024f5c7cb"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4f5263adbaa4024f5c7cd"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4f5263adbaa4024f5c7cf"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /images/InvalidId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4f6a0f2f57711e4676076"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4f6a0f2f57711e4676078"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4f6a0f2f57711e467607a"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a DELETE on /images/InvalidId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4f71422ec644dbc4d61f0"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4f71422ec644dbc4d61f2"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4f71422ec644dbc4d61f4"}
+{"level":"info","message":"Processing a DELETE on /images/InvalidId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4fc39c5342847d0946ae1"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4fc39c5342847d0946ae3"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4fc39c5342847d0946ae5"}
+{"level":"info","message":"Processing a DELETE on /images/InvalidId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4fc6b58b41b3e087cc1b1"}
+{"level":"info","message":"Processing a GET on /BadId"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /images/5af4fc6b58b41b3e087cc1b3"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4fc6b58b41b3e087cc1b5"}
+{"level":"info","message":"Processing a DELETE on /images/InvalidId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4fe38bd47b63e8cba8848"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4fe38bd47b63e8cba884a"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4fe38bd47b63e8cba884c"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4ff9686d58d2190fc50b8"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ff9686d58d2190fc50ba"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4ff9686d58d2190fc50bc"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4ffcf3fad5423040abb06"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4ffcf3fad5423040abb08"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4ffcf3fad5423040abb0a"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af4fff3d9309840307382a6"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af4fff3d9309840307382a8"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af4fff4d9309840307382aa"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af500a5a60a3d4944b242bf"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af500a5a60a3d4944b242c1"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af500a5a60a3d4944b242c3"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
+{"level":"info","message":"Server is listening on port 7000"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a POST on /images"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a GET on /images/5af501fec52c4048cc57f052"}
+{"level":"info","message":"Processing a GET on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Processing a GET on /images/5af501ffc52c4048cc57f054"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 401 code and message AUTH - bad token"}
+{"level":"info","message":"Processing a DELETE on /images/5af501ffc52c4048cc57f056"}
+{"level":"info","message":"Processing a DELETE on /images/BadId"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message AUTH - invalid request"}
+{"level":"info","message":"Server is off"}
